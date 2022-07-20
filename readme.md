@@ -1,0 +1,1 @@
+Accessing data from an API is one of the most common things you will do in web development, and the way to access APIs is with fetch. Fetch is function built into JavaScript that allows you to query any URL/API to get back data
